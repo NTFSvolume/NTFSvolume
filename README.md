@@ -1,2 +1,2 @@
-[![NTFSvolume's GitHub stats](https://github-readme-stats.vercel.app/api?username=NTFSvolume&show_icons=true&rank_icon=github&theme=transparent&card_width=400&include_all_commits=true&show=reviews,discussions_answered,prs_merged_percentage)](https://github.com/NTFSvolume/NTFSvolume)
+[![NTFSvolume's GitHub stats](https://github-readme-stats.vercel.app/api?username=NTFSvolume&show_icons=true&theme=transparent&card_width=400&show=reviews,discussions_answered,prs_merged_percentage)](https://github.com/NTFSvolume/NTFSvolume)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NTFSvolume&theme=transparent&card_width=400&layout=normal)](https://github.com/NTFSvolume/NTFSvolume)
